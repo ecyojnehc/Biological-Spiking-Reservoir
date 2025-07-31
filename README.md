@@ -1,1 +1,1 @@
-# Biological-Spiking-Reservoir
+# Biological-Spiking-Reservoir & RSNN
